@@ -1,0 +1,12 @@
+State,District,Population,Median_Age,Median_Household_Income,Literacy_Rate,Urban_Population
+Maharashtra,Mumbai,12400000,28.5,350000,85.2,90
+Maharashtra,Pune,3500000,29.2,280000,82.5,70
+Karnataka,Bengaluru,8500000,27.8,420000,88.5,95
+Karnataka,Mysuru,1000000,26.5,220000,80.2,60
+Uttar Pradesh,Lucknow,3000000,25.8,180000,75.1,50
+Uttar Pradesh,Kanpur,2000000,26.2,200000,78.5,55
+Delhi,Delhi,22000000,29.5,500000,91.2,100
+Rajasthan,Jaipur,3500000,27.2,250000,80.5,65
+Rajasthan,Udaipur,1500000,26.8,200000,78.2,50
+Tamil Nadu,Chennai,8500000,28.2,380000,86.5,90
+Tamil Nadu,Coimbatore,2000000,27.5,280000,84.2,70
